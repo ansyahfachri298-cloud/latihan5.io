@@ -283,6 +283,11 @@ img {
   margin-right: var(--mb-2);
   color: var(--first-color);
 }
+.robotle{
+   font-size: 2rem;
+  margin-right: var(--mb-2);
+  color: var(--first-color);
+}
 .skills__names {
   display: flex;
   align-items: center;
@@ -306,7 +311,7 @@ img {
   width: 65%;
 }
 .skills__Robotik {
-  width: 100%;
+  width: 90%;
 }
 .skills__img {
   border-radius: 0.5rem;
